@@ -12,7 +12,7 @@ namespace RockPaperScissors_Game
             const string Paper = "Paper";
             const string Scissors = "Scissors";
 
-            //Welcoming messages and prompts for user input
+            //Welcoming messages and prompts for user inputs
             Console.WriteLine("Hello! Welcome to the \"Rock, paper, scissors\" game!");
             Console.Write("Please enter your name: ");
             string playerName = Console.ReadLine();
