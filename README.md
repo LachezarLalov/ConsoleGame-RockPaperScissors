@@ -3,6 +3,7 @@ Console game - Rock Paper Scissors.
 
 The project recreate the well known game in console variant. Player is playing against computer.
 
+[[Source code](https://github.com/LachezarLalov/RockPaperScissorsByLL/blob/main/RockPaperScissors_Game/RockPaperScissors.cs)](The Game)
 
 · Project goals (what problem do we solve, e. g. we implement a certain game)
 
