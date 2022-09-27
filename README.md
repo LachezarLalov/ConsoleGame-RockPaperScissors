@@ -8,7 +8,7 @@ by Lachezar Lalov
   The game uses basic C# Methods like "If", "Switch", "For" statements to accomplish recreating the game rules and creating random computer moves.
 
 ## Demo and Source Code
-  [Demo](https://replit.com/@LachezarL/RockPaperScissors#Main.cs)
+  [![image](https://user-images.githubusercontent.com/113022668/192635935-4ca79d01-a053-457e-b898-ae035334ac42.png)](https://replit.com/@LachezarL/RockPaperScissors#Main.cs)
   [Source code](https://github.com/LachezarLalov/RockPaperScissorsByLL/blob/main/RockPaperScissors_Game/RockPaperScissors.cs)
 
 ## Planned changes
