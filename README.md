@@ -1,11 +1,11 @@
 # RockPaperScissors Game in C# Console
-by Lachezar Lalov
+<sub>by Lachezar Lalov</sub>
 
 ## Project goals
   The project recreate the well known game in console variant. Player is playing against computer.
 
 ## Solution
-  The game uses basic C# Methods like "If", "Switch", "For" and "While" statements to accomplish recreating the game rules and creating random computer moves.
+  The game uses basic C# Methods like ***"If"***, ***"Switch"****, ***"For"*** and ***"While"*** statements to accomplish recreating the game rules and creating random computer moves.
 
 ## Demo and Source Code
   [![image](https://user-images.githubusercontent.com/113022668/192635935-4ca79d01-a053-457e-b898-ae035334ac42.png)](https://replit.com/@LachezarL/RockPaperScissors#Main.cs)
