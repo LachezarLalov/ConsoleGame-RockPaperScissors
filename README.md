@@ -1,16 +1,19 @@
 # RockPaperScissorsByLL
-Console game - Rock Paper Scissors.
+  Console game - Rock Paper Scissors.
 
-The project recreate the well known game in console variant. Player is playing against computer.
+## Project goals
+  The project recreate the well known game in console variant. Player is playing against computer.
 
-[[Source code](https://github.com/LachezarLalov/RockPaperScissorsByLL/blob/main/RockPaperScissors_Game/RockPaperScissors.cs)](The Game)
+## Solution
+  The game uses basic C# Methods like "If", "Switch", "For" statements to accomplish recreating the game rules and creating random computer moves.
 
-· Project goals (what problem do we solve, e. g. we implement a certain game)
+## Source Code
+  [[Source code](https://github.com/LachezarLalov/RockPaperScissorsByLL/blob/main/RockPaperScissors_Game/RockPaperScissors.cs)](The Game)
 
-· Solution (should describe how do we solve the problem à algorithms, technologies, libraries, frameworks, tools, etc.)
+## Demo
 
-· Source code link (give a direct link to your source code)
+## Planned changes
+  -- Adding wins counter.
+  -- Adding options for a tournament-like playing with defined by user number of games that will be played.
+  -- Adding some visual representation of progress of the tournament (wins for each participant).
 
-· Screenshots (add screenshots from your project in different scenarios of its usage)
-
-· Live demo (add one-click live demo of your code)
