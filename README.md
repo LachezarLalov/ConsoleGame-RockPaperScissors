@@ -1,5 +1,5 @@
-# RockPaperScissorsByLL
-  Console game - Rock Paper Scissors.
+# RockPaperScissors Game in C# Console
+by Lachezar Lalov
 
 ## Project goals
   The project recreate the well known game in console variant. Player is playing against computer.
@@ -13,7 +13,8 @@
 ## Demo
 
 ## Planned changes
-  -- Adding wins counter.
-  -- Adding options for a tournament-like playing with defined by user number of games that will be played.
-  -- Adding some visual representation of progress of the tournament (wins for each participant).
+  - [X] Adding prompt for user name that will be used in the messages during the game.
+  - [ ] Adding wins counter.
+  - [ ] Adding options for a tournament-like playing with defined by user number of games that will be played.
+  - [ ] Adding some visual representation of progress of the tournament (wins for each participant).
 
