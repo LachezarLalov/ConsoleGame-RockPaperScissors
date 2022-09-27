@@ -6,17 +6,22 @@ namespace RockPaperScissors_Game
     {
         static void Main(string[] args)
         {
+            // INPUTS
+            //Constants
             const string Rock = "Rock";
             const string Paper = "Paper";
             const string Scissors = "Scissors";
 
-            Console.WriteLine("Welcome to the \" Rock, paper, scissors \" game!");
+            //Welcoming messages and prompts for user input
+            Console.WriteLine("Hello! Welcome to the \"Rock, paper, scissors\" game!");
             Console.Write("Please enter your name: ");
             string playerName = Console.ReadLine();
-            
+            Console.WriteLine($"{playerName}, you will be playing against the computer. Lets start...");
             Console.Write("Your choice: [r]ock, [p]aper or [s]cissors: ");
-            string playerMove = Console.ReadLine();   
+            string playerMove = Console.ReadLine();
             
+            // SOLUTION
+            //Player moves
             if (playerMove == "r" || playerMove == "rock")
             {
                 playerMove = Rock;
@@ -35,6 +40,7 @@ namespace RockPaperScissors_Game
                 return;
             }
 
+            //Generating random computer moves
             Random random = new Random();
             int computerRandomNumber = random.Next(1,4);
             string computerMove = "";
@@ -52,6 +58,9 @@ namespace RockPaperScissors_Game
                     break;
             }
 
+            // OUTPUT
+            //Makes comparison of the both moves and decides who wins or if the game is a draw
+            //Prints message with the outcome
             if (playerMove == Rock && computerMove == Rock ||
                 playerMove == Paper && computerMove == Paper ||
                 playerMove == Scissors && computerMove == Scissors)
