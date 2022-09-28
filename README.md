@@ -13,8 +13,8 @@
   [Source code](https://github.com/LachezarLalov/RockPaperScissorsByLL/blob/main/RockPaperScissors_Game/RockPaperScissors.cs)
 
 ## Planned changes
-  - [X] Adding prompt for user name that will be used in the messages during the game.
-  - [ ] Adding wins counter.
-  - [ ] Adding options for a tournament-like playing with defined by user number of games that will be played.
-  - [ ] Adding some visual representation of progress of the tournament (wins for each participant).
+  - [X] Prompt for user name that will be used in the messages during the game.
+  - [ ] Wins counter.
+  - [ ] Options for a tournament-like playing with defined by user number of games that will be played.
+  - [ ] Some visual representation of progress of the tournament (wins for each participant).
 
